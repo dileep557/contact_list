@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+    background-image: linear-gradient(gray,blue);
+    
+   
+}
+
+#header{
+    text-align: center;
+    color: black;
+}
+
+
+
+#list{
+    
+    text-align: center;
+    margin: 20px;
+    vertical-align: baseline;
+    list-style: none;
+   
+    
+    
+     
+}
+span{
+    border: 1px solid black;
+  
+}
+ul{
+    list-style: none;
+   
+}
+
+
+
