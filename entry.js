@@ -118,8 +118,8 @@ app.listen(port, function(error){ //Starts the server and listens on the specifi
    // If there is an error, it will be logged to the console.
     if(error)
     {
-        console.log("error occurs on running port",error);
+        console.log("error occurs !",error);
 
     }
-    console.log("my code running on port seccesfully",port);
+    console.log("my code running on port seccesfully  ",port);
 })
